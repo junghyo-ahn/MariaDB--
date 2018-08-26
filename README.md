@@ -1,1 +1,1 @@
-# MariaDB ¼³Ä¡
+# MariaDB ì„¤ì¹˜
